@@ -1,0 +1,32 @@
+
+body {
+    margin-top: 100px;
+    background-color: rgba(89, 0, 255, 0.329);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(67, 0, 112);
+}
+
+form {
+    margin: 0px auto;
+    display: block;
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 380px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(51, 83, 83, 0.13);
+}
+
+form label,
+input {
+    padding-top: 15px;
+}
+
+.form-check-input {
+    margin-top: 20px;
+}
+
